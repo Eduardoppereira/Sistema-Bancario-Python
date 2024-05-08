@@ -1,22 +1,18 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Modelagem Dimensional </span>
+    <span> Sistema Bancário com Python </span>
 </h1>
 
-Repositório criado para desenvolvimento pessoal, com apoio do curso **Power bi Analyst** da [Digital Innovation One](https://www.dio.me/).
+Repositório criado para desenvolvimento pessoal, com apoio do curso **Formação Python Developer** da [Digital Innovation One](https://www.dio.me/).
 
 ## Objetivo
-Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+Neste projeto, você terá a oportunidade de criar um Sistema Bancário em Python. O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
 
 ## Ferramentas
-[![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 
-## Resultado
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/schema-power-bi/blob/main/der_universidade.png" width="90%">
-</p>
 
 ## Desenvolvedor
 <table>
